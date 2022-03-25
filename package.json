@@ -19,8 +19,7 @@
         "babel-polyfill": "^6.8.0",
         "whatwg-fetch": "^1.0.0"
     },
-    "peerDependencies": {
-    },
+    "peerDependencies": {},
     "scripts": {
         "build": "webpack --progress",
         "start": "webpack-dev-server"
